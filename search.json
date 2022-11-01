@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "hlandmarks.html",
+    "href": "hlandmarks.html",
+    "title": "h3_landmarks",
+    "section": "",
+    "text": "source\n\nsay_hello\n\n say_hello (to)\n\nSay hello to somebody\n\nsay_hello('World')\n\n'Hello, World!'\n\n\n\nsource\n\n\nfoo\n\n foo ()"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "h3-landmarks",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation."
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "h3-landmarks",
+    "section": "Install",
+    "text": "Install\npip install h3_landmarks"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "h3-landmarks",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2"
+  }
+]
