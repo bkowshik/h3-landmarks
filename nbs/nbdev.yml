@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "h3-landmarks"
+  site-url: "https://bkowshik.github.io/h3-landmarks"
+  description: "Name Hex IDs with landmarks from OpenStreetMap."
+  repo-branch: main
+  repo-url: "https://github.com/bkowshik/h3-landmarks"
